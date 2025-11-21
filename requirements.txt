@@ -1,5 +1,9 @@
 langchain
 langchain-community
-requests
-langchain-anthropic
 langchain-openai
+langchain-anthropic
+requests
+fastapi
+pydantic
+uvicorn[standard]
+python-dotenv
